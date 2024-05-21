@@ -1,0 +1,2 @@
+MODEL_URL='https://storage.googleapis.com/model-training/submissions-model/model.json'
+GOOGLE_APPLICATION_CREDENTIALS=
